@@ -3,6 +3,7 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto;
+    background-color:#c4d6f2;
 }
 h1 {
     font-size: 3em;
@@ -43,6 +44,9 @@ p {
     margin: 1em auto
 }
 
+p1 {
+    font-weight: bold;
+}
 hr {
     border: none;
     background-color: lightgray;
@@ -55,4 +59,8 @@ h1, h2, h3 {
 }
 #mainLeft {
     border-right: 1px solid lightgray;
+}
+
+h4 {
+    color: #f57920;
 }
